@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source_Code\\C#\\QuanLyKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\source_code\\c#\\quanlykhachsan\\quanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\source_code\\c#\\quanlykhachsan\\quanlykhachsan\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\source_code\\c#\\quanlykhachsan\\quanlykhachsan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\source_code\\c#\\quanlykhachsan\\quanlykhachsan\\models\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\models\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\source_code\\c#\\quanlykhachsan\\quanlykhachsan\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F07A9BB5-B32D-473B-A450-6E072272901D}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 652,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Program.cs",
+              "ToolTip": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Program.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:41:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Models\\Modify.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Models\\Modify.cs",
+              "ToolTip": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Models\\Modify.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Models\\Modify.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:39:35.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Models\\User.cs",
+              "ToolTip": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Models\\User.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:39:32.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\frmMain.cs",
+              "ToolTip": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\frmMain.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\frmMain.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwv18AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:36:07.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\frmMain.cs",
+              "ToolTip": "D:\\Source_Code\\C#\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\frmMain.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:32:47.102Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 29,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
